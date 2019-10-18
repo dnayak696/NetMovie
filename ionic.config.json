@@ -1,0 +1,7 @@
+{
+  "name": "netMovie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
